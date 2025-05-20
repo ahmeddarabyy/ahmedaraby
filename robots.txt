@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ahmedaraby.info/sitemap.xml
+Sitemap: https://ahmedaraby.info/sitemap
