@@ -1,0 +1,3 @@
+# _config.yml
+exclude: []
+include: ["sitemap.xml"]
