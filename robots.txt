@@ -1,4 +1,18 @@
+# Rules for Googlebot (Google’s main crawler)
+User-agent: Googlebot
+Allow: /
+
+# Rules for Googlebot-Image (Google Images)
+User-agent: Googlebot-Image
+Allow: /
+
+# Rules for Googlebot-Mobile (mobile indexing)
+User-agent: Googlebot-Mobile
+Allow: /
+
+# Rules for all other crawlers (Bing, AhrefsBot, etc.)
 User-agent: *
 Allow: /
 
+# Sitemap declaration (for all bots)
 Sitemap: https://ahmedaraby.info/sitemap.xml
